@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Các bình luận về: Chào tất cả mọi người!	</title>
+	<atom:link href="https://minhhoanq.github.io/wolfShop/2024/06/15/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhhoanq.github.io/wolfShop/2024/06/15/chao-moi-nguoi/</link>
+	<description></description>
+	<lastBuildDate>Sat, 15 Jun 2024 14:53:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>
+		Bởi: Một người bình luận WordPress		</title>
+		<link>https://minhhoanq.github.io/wolfShop/2024/06/15/chao-moi-nguoi/#comment-1</link>
+
+		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 14:53:36 +0000</pubDate>
+		<guid isPermaLink="false">https://minhhoanq.github.io/wolfShop/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
