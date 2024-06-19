@@ -15,7 +15,7 @@
 	<atom:link href="https://minhhoanq.github.io/wolfShop/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhhoanq.github.io/wolfShop</link>
 	<description></description>
-	<lastBuildDate>Tue, 18 Jun 2024 07:04:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jun 2024 14:24:01 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
+		<title>San pham 2</title>
+		<link>https://minhhoanq.github.io/wolfShop/san-pham/san-pham-2/</link>
+					<comments>https://minhhoanq.github.io/wolfShop/san-pham/san-pham-2/#comments</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2024 14:22:54 +0000</pubDate>
+				<guid isPermaLink="false">https://minhhoanq.github.io/wolfShop/?post_type=product#038;p=67</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-68" src="https://minhhoanq.github.io/wolfShop/wp-content/uploads/2024/06/Screenshot-2024-06-16-012241.png" alt="San pham 2" width="1893" height="1019" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://minhhoanq.github.io/wolfShop/san-pham/san-pham-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">67</post-id>	</item>
+		<item>
 		<title>San pham</title>
 		<link>https://minhhoanq.github.io/wolfShop/san-pham/san-pham/</link>
 					<comments>https://minhhoanq.github.io/wolfShop/san-pham/san-pham/#respond</comments>
@@ -32,7 +50,7 @@
 				<guid isPermaLink="false">https://minhhoanq.github.io/wolfShop/?post_type=product#038;p=65</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-66" src="https://minhhoanq.github.io/wolfShop/wp-content/uploads/2024/06/Screenshot-2024-06-15-232918.png" alt="San pham" width="1869" height="862" /></p>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-66" src="https://minhhoanq.github.io/wolfShop/wp-content/uploads/2024/06/Screenshot-2024-06-15-232918.png" alt="San pham" width="1869" height="862" /></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://minhhoanq.github.io/wolfShop/san-pham/san-pham/feed/</wfw:commentRss>
@@ -68,7 +86,7 @@
 				<guid isPermaLink="false">https://minhhoanq.github.io/wolfShop/?post_type=product#038;p=57</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-59" src="https://minhhoanq.github.io/wolfShop/wp-content/uploads/2024/06/Screenshot-2024-06-14-201429.png" alt="" width="336" height="113" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-59" src="https://minhhoanq.github.io/wolfShop/wp-content/uploads/2024/06/Screenshot-2024-06-14-201429.png" alt="" width="336" height="113" /></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://minhhoanq.github.io/wolfShop/san-pham/o-c-gan-day/feed/</wfw:commentRss>
